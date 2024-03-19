@@ -1,0 +1,15 @@
+.field-container {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 15px 8px 22px;
+  gap: 5px;
+  
+  width: 370px;
+  height: 42px;
+  
+  background: #FFFFFF;
+}
